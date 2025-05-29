@@ -866,3 +866,5 @@ document.addEventListener("DOMContentLoaded", () => {
   initializeFilters();
   fetchActivities();
 });
+
+@AzizBenIsmail
