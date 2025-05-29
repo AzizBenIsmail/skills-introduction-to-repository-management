@@ -7,6 +7,7 @@ our school community, we as contributors and maintainers pledge to
 make participation in the Extra-Curricular Activities project a
 respectful and harassment-free experience for everyone.
 
+
 ## Our Standards
 
 Examples of behavior that contributes to creating a positive environment include:
