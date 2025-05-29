@@ -49,3 +49,5 @@ def check_session(username: str) -> Dict[str, Any]:
         "display_name": teacher["display_name"],
         "role": teacher["role"]
     }
+
+@AzizBenIsmail
